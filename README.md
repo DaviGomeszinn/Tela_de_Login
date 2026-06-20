@@ -1,2 +1,19 @@
-# Tela_de_Login
-Este é um projeto pessoal utilizando HTML/CSS, só fiz este por enquanto porque meu foco não é Frontend.  
+# Login Page
+
+Uma página simples de login desenvolvida com HTML e CSS para praticar conceitos básicos de front-end.
+
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+
+## 🎯 Objetivo
+Este projeto foi criado para praticar:
+- Estruturação de páginas com HTML
+- Estilização com CSS
+- Criação de formulários
+
+## 📌 Status
+✅ Projeto concluído para fins de estudo.
+
+## 👨‍💻 Autor
+Desenvolvido por [Davi Gomes dos Santos]
